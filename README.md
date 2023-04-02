@@ -9,6 +9,11 @@ Stable Diffusion Webui 扩展Civitai助手，用于更轻松的管理和使用Ci
 
 https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
 
+## Stable Diffusion WebUI Chinese 0306
+此项目为Stable Diffusion Web UI简体中文扩展
+https://github.com/VinsonLaro/stable-diffusion-webui-chinese
+
+
 ## tagcomplete
 输入Tag时提供booru风格（如Danbooru）的TAG自动补全。因为有一些模型是基于这种TAG风格训练的（例如Waifu Diffusion），因此使用这些Tag能获得较为精确的效果。
 

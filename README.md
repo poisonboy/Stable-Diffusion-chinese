@@ -1,5 +1,9 @@
 # Stable-Diffusion-chinese
 收录一些好用的Stable Diffusion 中文插件
+
+## WebUI Colab to Google Drive
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive
+
 ## Civitai Helper
 Stable Diffusion Webui 扩展Civitai助手，用于更轻松的管理和使用Civitai模型。
 

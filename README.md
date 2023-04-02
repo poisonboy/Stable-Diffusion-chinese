@@ -11,6 +11,7 @@ https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
 
 ## Stable Diffusion WebUI Chinese 0306
 此项目为Stable Diffusion Web UI简体中文扩展
+
 https://github.com/VinsonLaro/stable-diffusion-webui-chinese
 
 
